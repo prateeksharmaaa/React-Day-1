@@ -1,0 +1,28 @@
+body{
+    background-color:#eae2b7;
+}
+
+.button{
+    margin-right: 25px;
+}
+
+h2{
+    color:#d62828;
+    text-align: center;
+}
+
+.button{
+    padding: 17px;
+    margin-left: 5px;
+    margin-bottom: 5%;
+    text-align: center;
+    color: #0a9396;
+    font-size: large;
+    font-weight: bold;
+    background-color:#fcbf49;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
